@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Juan José</h1>
 <img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 <br>
-<h3 align="center">Apasionado por el mundo de la tecnología, la creatividad y la innovación. Mi camino en el campo de la programación y el diseño comenzó como una chispa de curiosidad que se convirtió en una llama ardiente de pasión. Siempre estoy emocionado por aprender y descubrir las últimas tendencias y herramientas que impulsan el cambio en nuestra era digital.</h3><br>
+<h3 align="center">Apasionado por el mundo de la tecnología, la creatividad y la innovación. Mi camino en el campo de la programación y el diseño comenzó como una chispa de curiosidad. Siempre estoy emocionado por aprender y descubrir las últimas tendencias y herramientas que impulsan el cambio en nuestra era digital.</h3><br>
 
 - 👨‍💻 Programación: **Desde HTML, Java, JavaScript, Python.** 
 
