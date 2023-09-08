@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Juan José</h1>
-<p align="center"> <img alt="coding" width=400 src="https://www.canva.com/design/DAFt1YKYwoE/4bhbrvXdAzAMALKqeF9b_Q/watch?utm_content=DAFt1YKYwoE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/> </p>
+<p align="center"> <img alt="coding" width=400 src="https://www.canva.com/design/DAFt1YKYwoE/watch"/> </p>
 <h3 align="center">Apasionado por el mundo de la tecnología, la creatividad y la innovación. Mi camino en el campo de la programación y el diseño comenzó como una chispa de curiosidad. Siempre estoy emocionado por aprender y descubrir las últimas tendencias y herramientas que impulsan el cambio en nuestra era digital.</h3><br>
 
 - 👨‍💻 Programación: **Desde HTML, Java, JavaScript, Python.** 
