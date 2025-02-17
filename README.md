@@ -2,9 +2,9 @@
 <p align="center"> <img alt="coding" width=400 src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif"/> </p>
 <h3 align="center">Un profesional apasionado por el mundo de la tecnología, la creatividad y la innovación. Mi camino en el campo de la programación y el diseño comenzó como una chispa de curiosidad. Siempre estoy dispuesto por aprender y descubrir las últimas tendencias y herramientas que impulsan el cambio en nuestra era digital.</h3><br>
 
-- 👨‍💻 Programación: **Desde HTML, Java, JavaScript, Php, Mysql.** 
+- 👨‍💻 Conocimiento de Programación: **Desde Estilos de prototipado HTML-CSS, hasta un basico manejo en lenguajes de programación Java, PHP, MYSQL.** 
 
-- 🎨 Diseño: **Crear experiencias visuales atractivas y funcionales es mi obsesión. Utilizo Canva, Google Fonts para dar vida a ideas innovadoras. Ya sea diseñando interfaces de usuario intuitivas o creando gráficos cautivadores, siempre busco el equilibrio entre estética y usabilidad.**
+- 🎨 Diseño: **Crear experiencias visuales atractivas y funcionales es mi obsesión. Utilizo herramientas como Canva, Google Fonts para dar vida a ideas innovadoras. Ya sea diseñando interfaces de usuario intuitivas o creando gráficos cautivadores, siempre busco el equilibrio entre estética y usabilidad.**
 
 - 📚 Aprendizaje Continuo: **El mundo tecnológico es dinámico y siempre cambiante. Siempre me mantengo al día con las últimas tendencias y técnicas. Mi sed de conocimiento siempre me impulsa a explorar nuevas tecnologías como la Inteligencia Artificial,**
 
