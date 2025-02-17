@@ -1,14 +1,14 @@
-<h1 align="center">Hola 👋, Yo soy Juan José</h1>
+<h1 align="center">Hola 👋 bienvenidos, me presento soy Juan José</h1>
 <p align="center"> <img alt="coding" width=400 src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif"/> </p>
-<h3 align="center">Apasionado por el mundo de la tecnología, la creatividad y la innovación. Mi camino en el campo de la programación y el diseño comenzó como una chispa de curiosidad. Siempre estoy emocionado por aprender y descubrir las últimas tendencias y herramientas que impulsan el cambio en nuestra era digital.</h3><br>
+<h3 align="center">Un profesional apasionado por el mundo de la tecnología, la creatividad y la innovación. Mi camino en el campo de la programación y el diseño comenzó como una chispa de curiosidad. Siempre estoy dispuesto por aprender y descubrir las últimas tendencias y herramientas que impulsan el cambio en nuestra era digital.</h3><br>
 
-- 👨‍💻 Programación: **Desde HTML, Java, JavaScript, Python.** 
+- 👨‍💻 Programación: **Desde HTML, Java, JavaScript, Php, Mysql.** 
 
-- 🎨 Diseño: **Crear experiencias visuales atractivas y funcionales es mi obsesión. Utilizo Canva, Google Fonts. para dar vida a ideas innovadoras. Ya sea diseñando interfaces de usuario intuitivas o creando gráficos cautivadores, siempre busco el equilibrio entre estética y usabilidad.**
+- 🎨 Diseño: **Crear experiencias visuales atractivas y funcionales es mi obsesión. Utilizo Canva, Google Fonts para dar vida a ideas innovadoras. Ya sea diseñando interfaces de usuario intuitivas o creando gráficos cautivadores, siempre busco el equilibrio entre estética y usabilidad.**
 
-- 📚 Aprendizaje Continuo: **El mundo tecnológico es dinámico y siempre cambiante. Siempre me mantengo al día con las últimas tendencias y técnicas. Mi sed de conocimiento me impulsa a explorar nuevas tecnologías como la Inteligencia Artificial,**
+- 📚 Aprendizaje Continuo: **El mundo tecnológico es dinámico y siempre cambiante. Siempre me mantengo al día con las últimas tendencias y técnicas. Mi sed de conocimiento siempre me impulsa a explorar nuevas tecnologías como la Inteligencia Artificial,**
 
-- ✉️ Conectacto: **topjuanj@gmail.com**
+- ✉️ Contactame via: **topjuanj@gmail.com**
 <br>
 <br>
 <h3 align="left">Redes Sociales:</h3>
